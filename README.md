@@ -15,3 +15,4 @@ https://playwright.dev/python/docs/intro
             
             conda install anaconda::beautifulsoup4==4.12.2
 
+            conda install anaconda::requests==2.31.0
