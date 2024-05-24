@@ -13,6 +13,6 @@ https://playwright.dev/python/docs/intro
             conda install playwright==1.44.0
             playwright install  # # Install the required browsers like chromium, Firefox, Webkit, FFMPEG
             
-            conda install anaconda::beautifulsoup4==4.12.2
+            conda install anaconda::beautifulsoup4==4.12.2  # # https://www.crummy.com/software/BeautifulSoup/bs4/doc/ 한글 : https://www.crummy.com/software/BeautifulSoup/bs4/doc.ko/
 
             conda install anaconda::requests==2.31.0
